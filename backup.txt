@@ -1,0 +1,9 @@
+<th colspan="2" width="33%"><a href="principaisacontecimentos.html"><img src="img/primeira-missa-brasil.webp" height="380"></a><br><h1>Principais Acontecimentos</h1></td>
+            <th colspan="2" width="33%"><a href="principaispersonagens.html"><img  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYv4oomF-BqMPcK60YbC5ZAvrEuzI6GeC6xDH1dE7PH3gYDEOGRat_mvJS4bSk3KmZzyJk-KuGT1jlcs-PIup7voHNsfDA7KeteUQejw_8IbJNRz7L7YORfTm3u3YfvSBY08R2T9wWrSs3/s1600/caravelas.jpg"></a><br><h1 aling>Principais Personagens</h1>
+
+
+
+            <th width="250"><img src="img/brasil2.jpg" width="300" height="200" ></td>
+            <th width="250"><img src="img/bandieraimperio.png" width="300"> </td>
+
+            https://www.geocities.ws/historiaeravirtual/imperioscoloniaisportugaleespanha.jpg.jpg
